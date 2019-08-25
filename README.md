@@ -1,6 +1,6 @@
 # cricketeer
 
-Cricket Player Info APp
+An Android application built with FLutter-Dart which shows stats and information about all current Cricket Players. Players can be chosen teamwise as well.
 
 ## Getting Started
 
