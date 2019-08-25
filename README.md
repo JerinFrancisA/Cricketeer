@@ -2,15 +2,21 @@
 
 An Android application built with FLutter-Dart which shows stats and information about all current Cricket Players. Players can be chosen teamwise as well.
 
-## Getting Started
+## Screenshots
+### Team wise selection
+![Screenshot_20190825-224247](https://user-images.githubusercontent.com/43045825/63653497-1d737c00-c78b-11e9-9a14-97f5809a5e3d.png)
+![Screenshot_20190825-224254](https://user-images.githubusercontent.com/43045825/63653505-3a0fb400-c78b-11e9-91a8-97c16232fce4.png)
 
-This project is a starting point for a Flutter application.
+### Player List with Horizontal Page wise (Tinder-like) scrolling
+![Screenshot_20190825-224310](https://user-images.githubusercontent.com/43045825/63653510-4b58c080-c78b-11e9-918b-2febe2b351b5.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Information from Wikipedia
+![Screenshot_20190825-224318](https://user-images.githubusercontent.com/43045825/63653516-590e4600-c78b-11e9-8db0-76523c129fe9.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Stats from [cricmetric.com](http://cricmetric.com/index.py)
+![Screenshot_20190825-224348](https://user-images.githubusercontent.com/43045825/63653521-64617180-c78b-11e9-8390-eb9d7be29dff.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# About Me
+Please check out the dart package developed by [Fawaz Hussain](https://github.com/fawazhussain) and [Me](https://github.com/JerinFrancisA) [here](https://pub.dev/packages/flutter_otp).
+
+Make sure to Star and Support this repository and Feel free to contribute to it. Thank you.
