@@ -9,7 +9,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="cricketeer"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/cricket_insect_2">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
