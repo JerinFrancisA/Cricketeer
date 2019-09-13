@@ -5,7 +5,7 @@ An Android application built with FLutter-Dart which shows stats and information
 # About Me
 Please check out the dart package developed by [Fawaz Hussain](https://github.com/fawazhussain) and [Me](https://github.com/JerinFrancisA) [here](https://pub.dev/packages/flutter_otp).
 
-Make sure to :star: and Support this repository and Feel free to contribute to it. Thank you.
+Make sure to :star: and Support this repository and Feel free to contribute to it.
 
 
 # Screenshots
