@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 
-# cricketeer
+# Cricketeer
 
 An Android application built with FLutter-Dart which shows stats and information about all current Cricket Players. Players can be chosen teamwise as well.
 
