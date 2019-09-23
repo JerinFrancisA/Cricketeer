@@ -4,6 +4,11 @@
 
 An Android application built with FLutter-Dart which shows stats and information about all current Cricket Players. Players can be chosen teamwise as well.
 
+## Coming Soon
+
+- [ ] Live Score Update
+- [ ] Upcoming Matches and much more
+
 # About Me
 Please check out the dart package developed by [Fawaz Hussain](https://github.com/fawazhussain) and [Me](https://github.com/JerinFrancisA) [here](https://pub.dev/packages/flutter_otp).
 
